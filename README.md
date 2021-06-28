@@ -1,4 +1,7 @@
-# [!!! DON'T USE FOR MINING OR OTHER NON PERMITTED USE , READ THIS PAGE](https://docs.github.com/en/github/site-policy/github-terms-for-additional-products-and-features#a-actions-usage)
+# !!! DON'T USE FOR MINING OR OTHER NON PERMITTED USE 
+[READ THIS PAGE](https://docs.github.com/en/github/site-policy/github-terms-for-additional-products-and-features#a-actions-usage)
+
+## This repo is only for educational use and example for workflow tests. We don't accept any responsibility. 
 
 # Windows-RDP-ACTIONS
 
